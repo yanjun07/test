@@ -1,1 +1,1 @@
-# this is a test for Comp 576
+# This is a test for Comp 576
